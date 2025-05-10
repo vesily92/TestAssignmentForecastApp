@@ -65,7 +65,6 @@ This project demonstrates:
      ```
 4. **Build and run** on an iOS 15+ simulator or device.
 
-   * Enter a city name and pull down to refresh the weather data.
 
 ## Questions
 
