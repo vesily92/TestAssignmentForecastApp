@@ -18,7 +18,7 @@ This project demonstrates:
 ## Technologies Used
 
 * **Swift 5**
-* **UIKit** (no SwiftUI)
+* **UIKit** 
 * **Core Data** for local storage and data merging
 * **URLSession + URLComponents** for constructing and executing network requests
 * **Codable** for JSON decoding
