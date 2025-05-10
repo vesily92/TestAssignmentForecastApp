@@ -41,5 +41,5 @@ enum OpenWeatherEndpoint {
     private static let iconHost = "openweathermap.org"
     private static let iconPathPrefix = "/img/wn"
 
-    private static let apiKey = APIKey
+    private static let apiKey = "YOUR_OPENWEATHERMAP_API_KEY"
 }
